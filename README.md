@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Financial Management Application (React)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my first React project, and first and foremost, I didn't make this project on my own. This is practice project that I watched on YouTube from the great programmer in Thailand. His name is KongRukSiam, and here are videos:
 
-## Available Scripts
+* [React Phase1](https://youtu.be/KvNfS86KEA4)<br>
+* [React Phase2](https://youtu.be/3ubQZb-99fI)
+  
+## How To Use This Program??
 
-In the project directory, you can run:
+This project is about financial management. It's a very simple program; all you need to do is add the items, and the program will calculate your total income, expenses, and balance.
 
 ### `npm start`
 
