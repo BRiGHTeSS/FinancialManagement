@@ -12,7 +12,7 @@ This project is about financial management. It's a very simple program; all you 
 ## How To Create??
 
 1. To create this program, first and foremost, you should install [NodeJS](https://nodejs.org/en).
-2. Install React Library: `npx install create-react-app`
+2. Install React Library: `npx create-react-app <folder_name>`
 3. Install other libraries that are needed for this project (**prop-types, react-router-dom, uuid**):
    * `npm install --save prop-types`
    * `npm install react-router-dom`
