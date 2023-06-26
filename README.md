@@ -1,4 +1,4 @@
-# Financial Management Application ( React ⚛️ )
+# 💵 Financial Management Application ( React ⚛️ )
 
 This is my first React project, and first and foremost, I didn't make this project on my own. This is practice project that I watched on YouTube from the great programmer in Thailand. His name is KongRukSiam, and here are videos:
 
